@@ -96,3 +96,4 @@ plt.show()
 <img width="901" height="661" alt="image" src="https://github.com/user-attachments/assets/36718c1c-6a89-4bb7-a13a-18750bf9b86a" />
 
 ### Result:
+Thus, Link Analysis using HITS Algorithm in Python is successfully implemented.
